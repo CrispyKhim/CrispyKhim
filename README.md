@@ -7,6 +7,5 @@ I am a high school student and a beginner at programming.
 I won't be displaying much of my poor work... :|
 
 <!---
-CrispyKhim/CrispyKhim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I have also recently started using Github so I'm trying to get used to this application!
 --->
