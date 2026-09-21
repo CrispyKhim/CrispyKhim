@@ -5,4 +5,4 @@
 ## About me
 
 - Based in Sydney, Australia
-- B. Computer Science @ UNSW
+- B. Adv. Computer Science @ UNSW
